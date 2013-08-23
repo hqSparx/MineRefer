@@ -1,0 +1,12 @@
+name: MineRefer
+main: me.hqSparx.MineRefer.MineRefer
+version: 1.00
+description: Refer a friend system
+authors: [hqSparx]
+commands:
+  link:
+    description: Get your referral link
+  stats:
+    description: Get your referral stats
+  reward:
+    description: Get your reward
